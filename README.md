@@ -30,3 +30,14 @@ Using the powerful data visualization Javascript library, D3, a Nobel-prize visu
 * SQLAlchemy: Python SQL Toolkit and Object Relation Mapper (ORM).
 * Seaborn: Addition to Python's Matplotlib. Adds great aesthetics.
 * crossfilter: Javascript library for filtering row-columnar datasets very fast. 
+
+### Databases
+
+* SQLite: File-based, serverless SQL-database.
+  
+    _Note_: By using SQLAlchemy SQL-library directly or through libraries that build on it, we can adapt the application to use other SQL backends such as MySQL or PostgreSQL by simply changing the configuration file.
+    
+* MongoDB: NoSQL database.
+
+
+
